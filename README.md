@@ -1,2 +1,2 @@
-# cautious-doodle
+# npc whitepaper
 whitepaper
